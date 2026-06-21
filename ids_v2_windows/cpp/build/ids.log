@@ -1,0 +1,66 @@
+2026-06-18 17:22:10 [INFO]  === AI Cybersecurity IDS (C++ backend) starting ===
+2026-06-18 17:22:10 [INFO]  ML service expected at 127.0.0.1:9999
+2026-06-18 17:22:10 [INFO]  Available capture adapters:
+2026-06-18 17:22:10 [INFO]    \Device\NPF_{4492958F-95CA-4704-AFCD-FC9DDEDA3865}  -- WAN Miniport (Network Monitor)
+2026-06-18 17:22:10 [INFO]    \Device\NPF_{2B084321-BCD9-48C3-81E3-C27A06A3D357}  -- WAN Miniport (IPv6)
+2026-06-18 17:22:10 [INFO]    \Device\NPF_{0150BF95-1F2A-4621-BD94-AFC0500F92BC}  -- WAN Miniport (IP)
+2026-06-18 17:22:10 [INFO]    \Device\NPF_{22537C37-78E8-4CC7-9F97-C0EC75890591}  -- Hyper-V Virtual Ethernet Adapter
+2026-06-18 17:22:10 [INFO]    \Device\NPF_{80170C96-BB0B-4156-8622-9D2680FF1FCE}  -- Bluetooth Device (Personal Area Network)
+2026-06-18 17:22:10 [INFO]    \Device\NPF_{2D642F95-003D-4BC6-B305-6258212DC279}  -- Realtek RTL8822CE 802.11ac PCIe Adapter
+2026-06-18 17:22:10 [INFO]    \Device\NPF_{27DFDEA7-D33A-470A-B8E3-728BE9ADD688}  -- Microsoft Wi-Fi Direct Virtual Adapter #4
+2026-06-18 17:22:10 [INFO]    \Device\NPF_{D1979E38-62D8-4AF9-BD0A-28F2D8A5F8E7}  -- Microsoft Wi-Fi Direct Virtual Adapter #3
+2026-06-18 17:22:10 [INFO]    \Device\NPF_{B20323E5-15F7-48C2-B7C6-527FB93F5D6F}  -- VirtualBox Host-Only Ethernet Adapter
+2026-06-18 17:22:10 [INFO]    \Device\NPF_Loopback  -- Adapter for loopback traffic capture
+2026-06-18 17:22:10 [INFO]    \Device\NPF_{986C0325-073C-4072-B499-F6DBD73D3667}  -- Realtek PCIe GbE Family Controller
+2026-06-18 17:22:10 [INFO]  Configured interface (Config::INTERFACE): Wi-Fi
+2026-06-18 17:22:10 [INFO]  If capture doesn't start, edit Config::INTERFACE to match one of the adapter descriptions above, and run this program as Administrator (required for raw packet capture and firewall rules).
+2026-06-18 17:22:10 [INFO]  Starting sniffer on interface: Wi-Fi
+2026-06-18 17:22:10 [INFO]  Press Ctrl+C to stop.
+2026-06-18 17:22:10 [INFO]  Packet capture started on \Device\NPF_{27DFDEA7-D33A-470A-B8E3-728BE9ADD688}
+2026-06-18 17:26:22 [INFO]  Shutting down IDS...
+2026-06-18 17:26:22 [INFO]  Packet capture stopped.
+2026-06-18 17:26:22 [INFO]  IDS stopped cleanly.
+2026-06-18 17:29:24 [INFO]  === AI Cybersecurity IDS (C++ backend) starting ===
+2026-06-18 17:29:24 [INFO]  ML service expected at 127.0.0.1:9999
+2026-06-18 17:29:24 [INFO]  Available capture adapters:
+2026-06-18 17:29:24 [INFO]    \Device\NPF_{4492958F-95CA-4704-AFCD-FC9DDEDA3865}  -- WAN Miniport (Network Monitor)
+2026-06-18 17:29:24 [INFO]    \Device\NPF_{2B084321-BCD9-48C3-81E3-C27A06A3D357}  -- WAN Miniport (IPv6)
+2026-06-18 17:29:24 [INFO]    \Device\NPF_{0150BF95-1F2A-4621-BD94-AFC0500F92BC}  -- WAN Miniport (IP)
+2026-06-18 17:29:24 [INFO]    \Device\NPF_{22537C37-78E8-4CC7-9F97-C0EC75890591}  -- Hyper-V Virtual Ethernet Adapter
+2026-06-18 17:29:24 [INFO]    \Device\NPF_{80170C96-BB0B-4156-8622-9D2680FF1FCE}  -- Bluetooth Device (Personal Area Network)
+2026-06-18 17:29:24 [INFO]    \Device\NPF_{2D642F95-003D-4BC6-B305-6258212DC279}  -- Realtek RTL8822CE 802.11ac PCIe Adapter
+2026-06-18 17:29:24 [INFO]    \Device\NPF_{27DFDEA7-D33A-470A-B8E3-728BE9ADD688}  -- Microsoft Wi-Fi Direct Virtual Adapter #4
+2026-06-18 17:29:24 [INFO]    \Device\NPF_{D1979E38-62D8-4AF9-BD0A-28F2D8A5F8E7}  -- Microsoft Wi-Fi Direct Virtual Adapter #3
+2026-06-18 17:29:24 [INFO]    \Device\NPF_{B20323E5-15F7-48C2-B7C6-527FB93F5D6F}  -- VirtualBox Host-Only Ethernet Adapter
+2026-06-18 17:29:24 [INFO]    \Device\NPF_Loopback  -- Adapter for loopback traffic capture
+2026-06-18 17:29:24 [INFO]    \Device\NPF_{986C0325-073C-4072-B499-F6DBD73D3667}  -- Realtek PCIe GbE Family Controller
+2026-06-18 17:29:24 [INFO]  Configured interface (Config::INTERFACE): Wi-Fi
+2026-06-18 17:29:24 [INFO]  If capture doesn't start, edit Config::INTERFACE to match one of the adapter descriptions above, and run this program as Administrator (required for raw packet capture and firewall rules).
+2026-06-18 17:29:24 [INFO]  Starting sniffer on interface: Wi-Fi
+2026-06-18 17:29:24 [INFO]  Press Ctrl+C to stop.
+2026-06-18 17:29:24 [INFO]  Packet capture started on \Device\NPF_{27DFDEA7-D33A-470A-B8E3-728BE9ADD688}
+2026-06-18 17:32:30 [INFO]  Shutting down IDS...
+2026-06-18 17:32:31 [INFO]  Packet capture stopped.
+2026-06-18 17:32:31 [INFO]  IDS stopped cleanly.
+2026-06-18 17:40:36 [INFO]  === AI Cybersecurity IDS (C++ backend) starting ===
+2026-06-18 17:40:36 [INFO]  ML service expected at 127.0.0.1:9999
+2026-06-18 17:40:36 [INFO]  Available capture adapters:
+2026-06-18 17:40:36 [INFO]    \Device\NPF_{4492958F-95CA-4704-AFCD-FC9DDEDA3865}  -- WAN Miniport (Network Monitor)
+2026-06-18 17:40:36 [INFO]    \Device\NPF_{2B084321-BCD9-48C3-81E3-C27A06A3D357}  -- WAN Miniport (IPv6)
+2026-06-18 17:40:36 [INFO]    \Device\NPF_{0150BF95-1F2A-4621-BD94-AFC0500F92BC}  -- WAN Miniport (IP)
+2026-06-18 17:40:36 [INFO]    \Device\NPF_{22537C37-78E8-4CC7-9F97-C0EC75890591}  -- Hyper-V Virtual Ethernet Adapter
+2026-06-18 17:40:36 [INFO]    \Device\NPF_{80170C96-BB0B-4156-8622-9D2680FF1FCE}  -- Bluetooth Device (Personal Area Network)
+2026-06-18 17:40:36 [INFO]    \Device\NPF_{2D642F95-003D-4BC6-B305-6258212DC279}  -- Realtek RTL8822CE 802.11ac PCIe Adapter
+2026-06-18 17:40:36 [INFO]    \Device\NPF_{27DFDEA7-D33A-470A-B8E3-728BE9ADD688}  -- Microsoft Wi-Fi Direct Virtual Adapter #4
+2026-06-18 17:40:36 [INFO]    \Device\NPF_{D1979E38-62D8-4AF9-BD0A-28F2D8A5F8E7}  -- Microsoft Wi-Fi Direct Virtual Adapter #3
+2026-06-18 17:40:36 [INFO]    \Device\NPF_{B20323E5-15F7-48C2-B7C6-527FB93F5D6F}  -- VirtualBox Host-Only Ethernet Adapter
+2026-06-18 17:40:36 [INFO]    \Device\NPF_Loopback  -- Adapter for loopback traffic capture
+2026-06-18 17:40:36 [INFO]    \Device\NPF_{986C0325-073C-4072-B499-F6DBD73D3667}  -- Realtek PCIe GbE Family Controller
+2026-06-18 17:40:36 [INFO]  Configured interface (Config::INTERFACE): Wi-Fi
+2026-06-18 17:40:36 [INFO]  If capture doesn't start, edit Config::INTERFACE to match one of the adapter descriptions above, and run this program as Administrator (required for raw packet capture and firewall rules).
+2026-06-18 17:40:36 [INFO]  Starting sniffer on interface: Wi-Fi
+2026-06-18 17:40:36 [INFO]  Press Ctrl+C to stop.
+2026-06-18 17:40:36 [INFO]  Packet capture started on \Device\NPF_{27DFDEA7-D33A-470A-B8E3-728BE9ADD688}
+2026-06-18 17:41:35 [INFO]  Shutting down IDS...
+2026-06-18 17:41:36 [INFO]  Packet capture stopped.
+2026-06-18 17:41:36 [INFO]  IDS stopped cleanly.

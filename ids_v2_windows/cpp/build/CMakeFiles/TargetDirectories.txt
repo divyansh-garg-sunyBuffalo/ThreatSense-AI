@@ -1,0 +1,7 @@
+C:/Users/divya/Desktop/Projects/ids_v2_windows/cpp/build/CMakeFiles/ids_backend.dir
+C:/Users/divya/Desktop/Projects/ids_v2_windows/cpp/build/CMakeFiles/edit_cache.dir
+C:/Users/divya/Desktop/Projects/ids_v2_windows/cpp/build/CMakeFiles/rebuild_cache.dir
+C:/Users/divya/Desktop/Projects/ids_v2_windows/cpp/build/CMakeFiles/list_install_components.dir
+C:/Users/divya/Desktop/Projects/ids_v2_windows/cpp/build/CMakeFiles/install.dir
+C:/Users/divya/Desktop/Projects/ids_v2_windows/cpp/build/CMakeFiles/install/local.dir
+C:/Users/divya/Desktop/Projects/ids_v2_windows/cpp/build/CMakeFiles/install/strip.dir

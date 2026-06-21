@@ -1,0 +1,1 @@
+  -LC:/PROGRA~1/NPCAPS~1/Lib/x64  -lwpcap -lPacket -lws2_32 -liphlpapi -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
